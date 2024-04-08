@@ -1,0 +1,13 @@
+name: Puter
+website_url: https://puter.com
+source_code_url: https://github.com/HeyPuter/puter
+description: Puter is a privacy-first personal cloud to keep all your files, apps, and games in one secure place, accessible from anywhere at any time.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - File Transfer & Synchronization
+  - Software Development - IDE & Tools
+demo_url: https://puter.com
